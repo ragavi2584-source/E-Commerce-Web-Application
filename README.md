@@ -3,14 +3,19 @@ An E-Commerce Web Application is an online shopping platform where users can bro
 
 This project is a simple online shopping application.
 
-## Features
-- Product Catalog
-- Add to Cart
-- User Login
-- Order Tracking
-
 ## Technologies Used
 - HTML
 - CSS
 - JavaScript
-- MySQL
+
+
+## Features
+- Product Catalog
+- Add to Cart
+- Checkout Page
+- Responsive Design
+
+## Future Enhancements
+- Database Integration using MySQL
+- User Authentication
+- Order Tracking
